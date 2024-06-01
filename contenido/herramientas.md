@@ -15,4 +15,17 @@ Para este proyecto las herramientas que he utilizado son las siguientes:
     ZeroTier es ideal para conectar oficinas remotas, redes de desarrollo, dispositivos IoT, y cualquier situación que requiera una red privada segura y flexible.
 
     ![image](/img/zerotier.png)
+
+- **VirtualBox:** Es un potente producto de virtualización x86 y AMD64/Intel64 para uso empresarial y doméstico. VirtualBox no sólo es un producto extremadamente rico en funciones y de alto rendimiento para clientes empresariales, sino que también es la única solución profesional disponible gratuitamente como software de código abierto
+
+    Las principales características de VirtualBox son:
+    - Permite configurar hasta 32 CPUs.
+    - Soporte para dispositivos USB.
+    - Compatibilidad con todo tipo de hardware, y soporte completo ACPI.
+    - Múltiples resoluciones de pantalla.
+    - Completo sistema de instantáneas.
+    - Funciones de clonado de máquinas.
+    - Pantalla remota para controlar la máquina virtual desde otro ordenador.
+
+    ![image](/img/VirtualBox.jpg)
     
