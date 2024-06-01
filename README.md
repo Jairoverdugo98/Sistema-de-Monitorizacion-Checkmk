@@ -19,7 +19,7 @@
     <img src="/img/wikipedia.png" alt="Wikipedia">
     </a>
 <a href="https://checkmk.com/">
-<img src="/img/Checkmk.png" alt="Checkmk">
+<img src="/img/check-icono.png" alt="Checkmk">
 </a>
 
 ## Licencia
