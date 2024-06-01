@@ -4,11 +4,11 @@
 ## Indice
 1.- Descripción del proyecto
 
-[2.- Introducción teórica](/contenido/teoria.md)
+2.- [Introducción teórica](/contenido/teoria.md)
 
 3.- Configuración de Red
 
-4.- Herramientas utilizadas
+4.- [Herramientas utilizadas](/contenido/herramientas.md)
 
 5.- Desarrollo del proyecto con detalle
 
@@ -21,6 +21,13 @@
 <a href="https://checkmk.com/">
 <img src="/img/check-icono.png" alt="Checkmk">
 </a>
+<a href="https://docs.zerotier.com/">
+<img src="/img/zerotier logo.png" alt=Zerotier>
+</a>
+
+
+
+
 
 ## Licencia
 ![image](/img/licencia.png)
