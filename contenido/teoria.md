@@ -8,7 +8,7 @@ A lo largo de los años, las ediciones comerciales de **Checkmk** se han convert
 **Las principales características de Checkmk son:**
 
 - Experimenta tus aplicaciones desde la perspectiva del usuario.
-- Monitorización automatizada mediante utilización de APIs, el      descubrimiento automático y la configuración automática de plugins.
+- Monitorización automatizada mediante utilización de APIs, el descubrimiento automático y la configuración automática de plugins.
 - Plataforma todo en uno para insfraestructura de TI y monitoreo sintético.
 - Supervisa todo lo que esta listo para usar.
 - Paneles dinámicos. Paneles flexibles en tiempo real.
