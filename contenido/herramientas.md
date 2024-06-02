@@ -28,4 +28,16 @@ Para este proyecto las herramientas que he utilizado son las siguientes:
     - Pantalla remota para controlar la máquina virtual desde otro ordenador.
 
     ![image](/img/VirtualBox.jpg)
+
+- **Telegram:** Es una aplicación de mensajería instantánea que permite a los usuarios enviar mensajes, fotos, videos y otros archivos. Es conocida por su enfoque en la velocidad y la seguridad, ofreciendo una alternativa robusta a otras aplicaciones de mensajería.
+
+    Algunas de sus características son:
+    - Chats cifrados de extremo a extremo para mas seguridad
+    - Es multiplataforma puede ser utilizado tanto en iOs, Android, Windows, Mac0s o versiones web
+    - Sincronización de mensajes en todos los dispositivos
+    - Utilización de Bots para realizar diversas tareas
+    - Privacidad y Control
+    - Mensajeria en la Nube
     
+    ![image](/img/telegram.jpg)
+
