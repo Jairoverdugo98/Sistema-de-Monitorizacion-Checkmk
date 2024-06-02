@@ -6,10 +6,15 @@ Para este proyecto las herramientas que he utilizado son las siguientes:
 
     Algunas de sus características son:
     - **Facilidad de Uso:** Instalación y configuración rápida en múltiples sistemas operativos.
+
     - **Seguridad:** Cifrado avanzado para proteger la comunicación entre dispositivos.
+
     - **Escalabilidad:** Soporta desde pocas conexiones hasta miles de dispositivos.
+
     - **Descentralización:** Alta disponibilidad y baja latencia gracias a la comunicación directa entre dispositivos.
+
     - **Gestión Centralizada:** Administración de la red a través de una consola web.
+    
     - **Compatibilidad:** Funciona con IPv6 e IPv4, asegurando interoperabilidad con diversas redes y dispositivos.
 
     ZeroTier es ideal para conectar oficinas remotas, redes de desarrollo, dispositivos IoT, y cualquier situación que requiera una red privada segura y flexible.
@@ -30,8 +35,8 @@ Para este proyecto las herramientas que he utilizado son las siguientes:
     - **Sistema de Instantáneas:** Permite guardar y restaurar el estado de las máquinas virtuales.
 
     - **Funciones de Clonado:** Herramientas para clonar máquinas virtuales fácilmente.
-    
-    - **Pantalla Remota:**Controla la máquina virtual desde otro ordenador mediante pantalla remota.
+
+    - **Pantalla Remota:** Controla la máquina virtual desde otro ordenador mediante pantalla remota.
 
     ![image](/img/VirtualBox.jpg)
 
