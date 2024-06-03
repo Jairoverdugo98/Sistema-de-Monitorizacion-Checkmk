@@ -21,8 +21,7 @@ A continuación siguiente con las indicaciones de telegram , crearemos un usuari
 
 ## **Paso 4: Obtener el ID Chat**
 
-Una vez creado nuestro bot , obtendremos nuestro ID Chat para poder configurar nuestro script para nuestras alertas de checkmk
-Lo obtendremos creando un grupo con el bot **@RawData**
+Una vez creado nuestro bot , obtendremos nuestro ID Chat para poder configurar nuestro script para nuestras alertas de checkmk creando un grupo con el bot **@RawData**
 
 ![image](/img/capturas/IdChat.png)
 
