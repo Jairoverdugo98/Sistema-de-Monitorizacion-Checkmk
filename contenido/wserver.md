@@ -3,7 +3,7 @@
 ## Paso 1: Integrar WServer en nuestra red ZeroTier
 En primer lugar debemos instalar Zerotier para poder incorporar el dispositivo Wserver en nuestra red privada.
 
-El primer paso sera instalar el paquete .msi en nuestro wserver en el apartado [Download](https://www.zerotier.com/download/)
+El primer paso sera instalar el paquete .msi en nuestro wserver que podemos encontrar en el apartado [Download](https://www.zerotier.com/download/) de zerotier
 
 ![image](/img/capturas/msi.png)
 
@@ -23,7 +23,7 @@ A continuación debemos abrir una regla de entrada en el firewall para poder ten
 - En la siguiente ventana marcaremos **"Permitir la conexión"**
 - Y para finalizar escribimos un nombre para la regla y alguna descripción que quieras añadirle (esto es opcional)
 
-## Paso 3: Creación de Agente en Checkmk
+## Paso 3: Creación de Host en Checkmk
 Por último debemos descargarnos dentro de nuestro checkmk el agente para instalarlo en nuestro dispositivo Wserver para que puedan sincronizarse y monitorizar los servicios disponibles.
 
 Dentro del Checkmk en la ruta **Configuración --> Agentes --> Archivos de Windows**
