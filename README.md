@@ -52,7 +52,7 @@ Este proyecto permitirá tener un control completo y eficiente sobre su infraest
     <img src="/img/Virtualbox_logo.png" alt="VirtualBox">
     </a>
 <a href="https://www.youtube.com/watch?v=Nl0mjRX7OCY">
-    <img src="/img/youtube.png>" alt="Youtube">
+    <img src="/img/youtube.png" alt="Youtube">
     </a>
 <a href="https://github.com/filipnet/checkmk-telegram-notify?tab=readme-ov-file#check_mk-telegram-notification">
     <img src="/img/github.jpg" alt="Github">
