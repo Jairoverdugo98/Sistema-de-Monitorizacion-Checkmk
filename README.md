@@ -33,7 +33,7 @@ Este proyecto permitirá tener un control completo y eficiente sobre su infraest
 
 3.- [Herramientas utilizadas](/contenido/herramientas.md)
 
-4.- Desarrollo del proyecto con detalle
+4.- [Desarrollo del proyecto con detalle](/contenido/desarrollo.md)
 
 5.- Conclusiones y dificultades encontradas con el proyecto.
 
