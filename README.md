@@ -57,7 +57,9 @@ Este proyecto permitirá tener un control completo y eficiente sobre su infraest
 <a href="https://github.com/filipnet/checkmk-telegram-notify?tab=readme-ov-file#check_mk-telegram-notification">
     <img src="/img/github.jpg" alt="Github">
     </a> 
-
+<a href="https://docs.docker.com/">
+<img src="/img/docker.icono.png" alt="docker">
+</a>
 
 
 

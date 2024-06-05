@@ -57,3 +57,25 @@ Para este proyecto las herramientas que he utilizado son las siguientes:
 
     ![image](/img/telegram.jpg)
 
+
+- **Docker:** Es una plataforma que permite a los desarrolladores crear, desplegar y ejecutar aplicaciones en contenedores. Es conocida por su enfoque en la eficiencia, portabilidad y consistencia, ofreciendo una alternativa a las máquinas virtuales tradicionales.
+
+Algunas de sus características son:
+
+- **Portabilidad:** Los contenedores Docker pueden ejecutarse en cualquier entorno que soporte Docker, ya sea en una máquina local, en un servidor o en la nube.
+
+- **Multiplataforma:** Docker puede ser utilizado tanto en sistemas operativos Linux, Windows y macOS.
+
+- **Eficiencia en el uso de Recursos:** Los contenedores son más ligeros y rápidos que las máquinas virtuales, ya que comparten el kernel del sistema operativo host.
+
+- **Gestión de Dependencias:** Docker permite empaquetar todas las dependencias de una aplicación dentro de un contenedor, garantizando que la aplicación se ejecute de manera consistente en cualquier entorno.
+
+- **Aislamiento:** Cada contenedor se ejecuta en su propio entorno aislado, lo que mejora la seguridad y evita conflictos entre aplicaciones.
+
+- **Despliegue y Escalabilidad:** Facilita el despliegue y escalabilidad de aplicaciones mediante la creación de entornos consistentes en diferentes etapas del ciclo de vida del desarrollo.
+
+- **Integración con Herramientas CI/CD:** Docker se integra fácilmente con las herramientas de integración continua y entrega continua, agilizando el proceso de desarrollo y despliegue.
+
+- **Almacenamiento en la Nube:** Compatible con múltiples servicios de almacenamiento en la nube, permitiendo almacenar y gestionar imágenes de contenedores de manera centralizada.
+
+![image](/img/docker.png)
