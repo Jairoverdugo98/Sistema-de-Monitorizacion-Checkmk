@@ -29,7 +29,7 @@ Este proyecto permitirá tener un control completo y eficiente sobre su infraest
 ## Indice
 1.- [Introducción teórica](/contenido/teoria.md)
 
-2.- Configuración de Red
+2.- [Configuración de Red](/img/mapared.png)
 
 3.- [Herramientas utilizadas](/contenido/herramientas.md)
 
