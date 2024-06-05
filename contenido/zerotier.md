@@ -1,4 +1,4 @@
-# Creación De Una Red Privada en Zerotier
+# 1. Creación De Una Red Privada en Zerotier
 
 ## Paso 1: Creación de una nueva red
 En primer lugar para poder crear una nueva red privada para poder conectar internamente todos tus dispositivos , debemos acceder a [la zona central de zerotier](https://my.zerotier.com/), registrarte y crear una nueva red.

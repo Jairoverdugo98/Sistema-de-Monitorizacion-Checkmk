@@ -1,4 +1,4 @@
-# Integración de Agente Wserver
+# 4. Integración de Agente Wserver
 
 ## Paso 1: Integrar WServer en nuestra red ZeroTier
 En primer lugar debemos instalar Zerotier para poder incorporar el dispositivo Wserver en nuestra red privada.

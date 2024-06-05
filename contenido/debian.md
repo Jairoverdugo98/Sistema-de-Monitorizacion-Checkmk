@@ -1,4 +1,4 @@
-# Integración de Agente Debian/Ubuntu
+# 5. Integración de Agente Debian/Ubuntu
 
 ## Paso 1: Integrar Debian/Ubuntu en nuestra red ZeroTier
 

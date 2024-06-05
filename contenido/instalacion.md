@@ -1,4 +1,4 @@
-# Instalación De Checkmk
+# 2. Instalación De Checkmk
 
 ## Paso 1: Descargar Checkmk
 

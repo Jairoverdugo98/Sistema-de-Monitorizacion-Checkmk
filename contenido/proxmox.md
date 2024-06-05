@@ -1,4 +1,4 @@
-# Integración de Agente en Proxmox
+# 6. Integración de Agente en Proxmox
 
 ## Paso 1 : Instalación e integración de ZeroTier en Proxmox
 Para poder integrar Proxmox en nuestra red privada de ZeroTier deberemos realizar los siguientes pasos:

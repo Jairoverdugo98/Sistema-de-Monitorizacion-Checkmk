@@ -1,4 +1,4 @@
-# Alertas en Telegram
+# 7. Alertas en Telegram
 
 ## **Paso 1: Debemos crear un bot en Telegram**
 
