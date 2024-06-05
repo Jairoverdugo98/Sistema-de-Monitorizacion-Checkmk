@@ -15,3 +15,5 @@
 
 **7.- [Alertas en Telegram](/contenido/alertas.md)**
 
+**8.- [Copia de seguridad y restauración](/contenido/copias.md)**
+
