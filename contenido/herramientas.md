@@ -1,4 +1,4 @@
-## 4. Herramientas Utilizadas
+## 3. Herramientas Utilizadas
 
 Para este proyecto las herramientas que he utilizado son las siguientes:
 

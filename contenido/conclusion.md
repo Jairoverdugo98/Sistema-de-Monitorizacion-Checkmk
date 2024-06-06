@@ -1,6 +1,6 @@
 ## 5.- Conclusiones y dificultades encontradas con el proyecto
 
-Mi conclusión final es que Checkmk es una herramienta muy eficiente para el monitoreo de sistemas , sus funciones nos permite supervisar de de manera altamente exhaustiva tanto los aspectos básicos como los mas avanzado de nuestros sistemas.
+Mi conclusión final es que Checkmk es una herramienta muy eficiente para el monitoreo de sistemas , sus funciones nos permite supervisar de manera altamente exhaustiva tanto los aspectos básicos como los mas avanzado de nuestros sistemas.
 Además, Checkmk ofrece una amplia variedad de plugins y extensiones que permiten adaptar la herramienta a las necesidades específicas de cada organización. Esto significa que, independientemente de la complejidad de la infraestructura o de los requisitos de supervisión, Checkmk puede ser configurado para proporcionar información relevante y útil para la toma de decisiones informadas.
 
 Mi principal problema que me encontre en el desarrollo del proyecto fue la falta de información disponible , la documentación oficial a veces me llevaba a ningun sitio y era complicada de entender, pero me he ayudado de la comunidades de Checkmk que es activa y compartian sus problemas y sus soluciones para poder llevar a cabo este proyecto.
