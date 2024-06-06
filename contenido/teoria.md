@@ -1,4 +1,4 @@
-## 2. Introdución Teórica
+## 1. Introdución Teórica
 **Checkmk** es un software desarrollado en Python y C++ para el monitoreo de infraestructuras de TI. Se utiliza para el monitoreo de servidores, aplicaciones de software, redes, infraestructuras en la nube (públicas, privadas e híbridas), contenedores, almacenamiento de datos, bases de datos y sensores.
 
 Inicialmente se basó en **Nagios**, y lo extendió con una serie de nuevos componentes. La edición de código abierto (Checkmk Raw Edition) continúa basándose en el núcleo de Nagios, y lo agrupa con componentes adicionales de código abierto en un sistema completo.
